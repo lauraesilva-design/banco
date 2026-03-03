@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "enzo",
+        "age": 47,
+        "stdying": "banco de dados",
+        "address":"",
+        "street":"",
+        "number": "16",
+        "city": "sao paulo",
+        "state": "sp"
+    },
+    {
+          "id": 2,
+        "name": "joao",
+        "age": 20,
+        "stdying": "banco de dados",
+        "address":"",
+        "street":"",
+        "number": "50",
+        "city": "rio de janeiro",
+        "state": "rj"
+    },
+    {
+        "id": 3,
+        "name": "lais",
+        "age": 27,
+        "stdying": "banco de dados",
+        "address":"",
+        "street":"",
+        "number": "8",
+        "city": "vitoria",
+        "state": "rj"
+    },
+    {
+        "id": 4,
+        "name": "emilly",
+        "age": 19,
+        "stdying": "banco de dados",
+        "address":"",
+        "street":"",
+        "number": "3",
+        "city": "londrina",
+        "state": "pr"
+    }
+]
