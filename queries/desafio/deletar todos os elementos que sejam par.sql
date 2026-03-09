@@ -1,0 +1,2 @@
+-- Active: 1772562537325@@127.0.0.1@3306
+DELETE FROM fruta WHERE id %2 =0;

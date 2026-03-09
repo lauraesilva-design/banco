@@ -1,0 +1,3 @@
+-- Active: 1772562537325@@127.0.0.1@3306
+#SELECT * FROM frut ORDER BY cnpj DESC LIMIT 1;
+SELECT  MAX(cnpj) FROM frut;

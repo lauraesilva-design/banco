@@ -1,0 +1,7 @@
+-- Active: 1772562537325@@127.0.0.1@3306
+ALTER TABLE fruta DROP COLUMN "Endereco";
+
+ALTER TABLE fruta DROP COLUMN nome;
+
+ALTER Table fruta ADD COLUMN "Endereco" DEFAULT 0 NOT NULL;
+ALTER Table fruta ADD COLUMN nome DEFAULT "" NOT NULL;
